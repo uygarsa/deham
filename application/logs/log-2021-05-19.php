@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-19 10:45:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-19 11:10:12 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 11:10:12 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 11:10:53 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 11:10:53 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 11:16:14 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 11:16:14 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 11:16:14 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 11:16:22 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 11:16:22 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 11:16:22 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 11:19:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-19 11:22:18 --> 404 Page Not Found: Public/css
+ERROR - 2021-05-19 11:22:19 --> 404 Page Not Found: Public/css
+ERROR - 2021-05-19 11:22:27 --> 404 Page Not Found: Public/css
+ERROR - 2021-05-19 11:22:33 --> 404 Page Not Found: Public/css
+ERROR - 2021-05-19 11:22:47 --> 404 Page Not Found: Public/css
+ERROR - 2021-05-19 11:23:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-19 11:23:59 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 11:23:59 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 13:04:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-19 13:08:06 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 13:08:06 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 13:08:30 --> 404 Page Not Found: Public/css
+ERROR - 2021-05-19 13:08:30 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 13:08:30 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 13:08:53 --> 404 Page Not Found: Public/css
+ERROR - 2021-05-19 14:12:08 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 14:12:08 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-05-19 14:17:55 --> 404 Page Not Found: Public/css

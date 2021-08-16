@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-07 11:02:06 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:06 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:06 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:06 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:06 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:06 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:06 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:06 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:07 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:08 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:08 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 11:02:08 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-08-07 17:04:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-07 23:49:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-07 23:49:56 --> 404 Page Not Found: Robotstxt/index

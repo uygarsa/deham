@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-16 18:26:47 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:47 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:47 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:47 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:47 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:47 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:47 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:47 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-07-16 18:26:48 --> 404 Page Not Found: Public/uploads
